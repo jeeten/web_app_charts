@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  web_app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-26T23:40:28.9113559+05:30"
+    description: A Helm chart for Kubernetes
+    digest: d7d22984f238d7eb55850ee9cf336a94272713eb711cf09586e0ceb981050fd5
+    name: web_app
+    type: application
+    urls:
+    - https://jeeten.github.io/web_app_charts/web_app-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-26T23:40:28.910192252+05:30"
